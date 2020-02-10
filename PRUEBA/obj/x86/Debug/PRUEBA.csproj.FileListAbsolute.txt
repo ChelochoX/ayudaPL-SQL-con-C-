@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\obj\x86\Debug\PRUEBA.Operador.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\obj\x86\Debug\PRUEBA.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\obj\x86\Debug\PRUEBA.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\bin\Debug\PRUEBA.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\bin\Debug\PRUEBA.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\obj\x86\Debug\PRUEBA.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Ejercicios\PRUEBA\PRUEBA\obj\x86\Debug\PRUEBA.pdb

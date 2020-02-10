@@ -1,0 +1,34 @@
+***   PARA SABER QUE TABLAS TIENE LA BBDD ***
+SELECT *
+FROM INFORMATION_SCHEMA.TABLES
+
+***************************************************
+***CREAR UNA BBDD, SI YA EXISTE SE BORRA ***
+--Delete the TestData database if it exists.  
+IF EXISTS(SELECT * from sys.databases WHERE name='TestData')  
+BEGIN  
+    DROP DATABASE TestData;  
+END  
+
+--Create a new database called TestData.  
+CREATE DATABASE TestData;  
+Press the F5 key to execute the code and create the database.  
+
+******************************************************
+*** CREAR TABLA EN BBDD *** 
+CREATE TABLE dbo.Products  
+   (ProductID int PRIMARY KEY NOT NULL,  
+    ProductName varchar(25) NOT NULL,  
+    Price money NULL,  
+    ProductDescription text NULL)  
+GO 
+
+***********************************************
+** EJEMPLO DE INSERCION CON AUTO INCREMENTAL **
+CREATE TABLE P_CLIENTES(
+ID_CLIENTES  INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+COGIGG AS ('CLI' + RIGHT ('00'+ CONVERT(VARCHAR,ID_CLIENTES),(2))),
+NOMBRE_APELLIDO NVARCHAR(100),
+EDAD  NVARCHAR(2)		
+)
+
